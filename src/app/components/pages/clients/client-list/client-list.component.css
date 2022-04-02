@@ -1,0 +1,9 @@
+mat-table {
+    width: 50%;
+    margin: auto;
+    margin-top: 50px;
+}
+mat-paginator {
+    width: 50%;
+    margin: auto;
+}
