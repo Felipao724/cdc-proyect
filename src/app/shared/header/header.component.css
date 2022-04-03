@@ -5,3 +5,7 @@
 mat-toolbar {
    color: primary;
 }
+
+button{
+   margin: 10px;
+}
